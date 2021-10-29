@@ -33,10 +33,13 @@ When the 9th grade scores from Thomas High School were removed, the overal passi
 In the original chart above, Thomas High ranked 2nd in the district. After the ninth grade scores from Thomas High were adjusted, their ranked dropped to about middle bottom.
 
 #
-**4. How does replacing the ninth-grade scores affect the following:
- - Math and reading scores by grade: 9th grade scores for Thomas High now show a 'NaN' and are not included in the analysis.
- - Scores by school spending: There was a slight dip in % passing reading and % overall passing.
- - Scores by school size: There was a very small impact when 9th grade scores were changed to Null.
- - Scores by school type: Removing 9th grade scores had little affect scores by school type.
+**4. How does replacing the ninth-grade scores affect the following:**
+
+ - **Math and reading scores by grade:** 9th grade scores for Thomas High now show a 'NaN' and are not included in the analysis.
+ - **Scores by school spending:** There was a slight dip in % passing reading and % overall passing.
+ - **Scores by school size:** There was a very small impact when 9th grade scores were changed to Null.
+ - **Scores by school type:** Removing 9th grade scores had little affect scores by school type.
 
 ## Summary
+
+Here is a summary of the four changes seen in the analysis. The overall passing percentage for Thomas High dropped significantly from 91% to 65% (rounded). This then shifted the math and reading averages. Their ranking also dropped from 2nd in the district to bottom half. The 9th grade data from Thomas High School have been removed and now show as "NaN" (null values). More changes were seen in the school summary than the larger district summary.
