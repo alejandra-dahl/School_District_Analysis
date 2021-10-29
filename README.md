@@ -16,7 +16,17 @@ It was deteremined that the reading and math scores from Thomas High School, 9th
   > Adjusted
 ![image](https://user-images.githubusercontent.com/90485451/139497939-c101a362-bafa-42b7-baed-285fa8c502f7.png)
 
-  
+#
+**2. How is the school summary affected?** 
+
+When the 9th grade scores from Thomas High School were removed, the overal passing % dropped a significant amount - 91% down to 65%.
+
+ > Original
+ > ![image](https://user-images.githubusercontent.com/90485451/139499359-0d40338a-cc9f-4366-ae89-87eb359b31eb.png)
+
+ > Adjusted
+ > ![image](https://user-images.githubusercontent.com/90485451/139500451-70080172-4fd3-49b2-b346-15ecad6672ec.png)
+
 
 
 ## Summary
