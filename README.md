@@ -27,6 +27,16 @@ When the 9th grade scores from Thomas High School were removed, the overal passi
  > Adjusted
  > ![image](https://user-images.githubusercontent.com/90485451/139500451-70080172-4fd3-49b2-b346-15ecad6672ec.png)
 
+#
+**3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
+In the original chart above, Thomas High ranked 2nd in the district. After the ninth grade scores from Thomas High were adjusted, their ranked dropped to about middle bottom.
+
+#
+**4. How does replacing the ninth-grade scores affect the following:
+ - Math and reading scores by grade: 9th grade scores for Thomas High now show a 'NaN' and are not included in the analysis.
+ - Scores by school spending: There was a slight dip in % passing reading and % overall passing.
+ - Scores by school size: There was a very small impact when 9th grade scores were changed to Null.
+ - Scores by school type: Removing 9th grade scores had little affect scores by school type.
 
 ## Summary
